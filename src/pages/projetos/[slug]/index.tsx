@@ -49,7 +49,7 @@ export default function Projeto({ projeto }: ProjetoProps) {
       <main>
         <p>{projeto.description}</p>
         <button type="button">
-          <a href={projeto.link}>Ver projeto online</a>
+          <a href={projeto.link}>Ver código no github</a>
         </button>
       </main>
     </ProjetoContainer>
