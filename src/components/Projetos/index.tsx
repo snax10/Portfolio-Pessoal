@@ -33,19 +33,6 @@ function Projetos({ projetos }: ProjetosProps) {
         ))}
       </section>
 
-      <SectionTitle title="Projetos Mobile" />
-      <section>
-        {projetos.slice(0, 2).map(projeto => (
-          <ProjetoItem
-            key={projeto.slug}
-            img={projeto.thumbnail}
-            title={projeto.title}
-            type={projeto.type}
-            slug={projeto.slug}
-          />
-        ))}
-      </section>
-
       <button type="button">
         <Link href="/projetos">
           <a>Ver todos os projetos</a>
