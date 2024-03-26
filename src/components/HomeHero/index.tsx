@@ -29,7 +29,7 @@ function HomeHero() {
               Função: <span className="blue">Dev Front-end,</span>
             </div>
             <div>
-              Empresa: <span className="blue">Grupo Parvi</span>
+              Empresa: <span className="blue">Localiza</span>
             </div>
             {'\u007D'}
           </CodeItem>
