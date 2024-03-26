@@ -1,11 +1,11 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import { Container, TextContainer, InfosContainer, CodeItem } from './styles';
-import picture from '../../assets/pessoa.webp';
+import picture from '../../assets/Eu.jpeg';
 
 function HomeHero() {
   return (
     <Container data-aos="fade-up">
-      {/* <img src={picture} alt="Minha foto" /> */}
+      <img src={picture} alt="Minha foto" />
       <div>
         <TextContainer>
           <h1>Olá</h1>

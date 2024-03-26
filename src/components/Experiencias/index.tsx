@@ -11,7 +11,7 @@ function Experiencias() {
         <ExperienciaItem
           year="2022"
           title="Dev. Front-end"
-          description="Desenvolvimento e manutenção de aplicações web, utilizando ReactJs, NextJs e React Native. Além de testes unitários com Jest, typescript, metodologias ágeis e versionamento de código com Git."
+          description="Desenvolvimento e manutenção de aplicações web, utilizando ReactJs, NextJs e React Native."
         />
         <ExperienciaItem
           year="2021"
@@ -22,7 +22,7 @@ function Experiencias() {
           year="2020"
           title="Analista de sistemas"
           description="Analista com vivência em equipes de suporte, para atuar como técnico`
-          funcional de um sistema customizado em java, analisando e resolvendo chamados."
+          funcional de um sistema customizado em java"
         />
         <ExperienciaItem
           year="2020"
